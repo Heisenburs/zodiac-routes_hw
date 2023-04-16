@@ -2,7 +2,8 @@ const signs = [
     {
         name: 'Aries',
         symbol: 'Ram',
-        date: '3/21 - 4/19'
+        date: '3/21 - 4/19',
+        horoscope: `I wouldn't go outside today if I was you...`
     },
     {
         name: 'Taurus',
@@ -12,7 +13,8 @@ const signs = [
     {
         name: 'Gemini',
         symbol: 'Twins',
-        date: '5/21 - 6/21'
+        date: '5/21 - 6/21',
+        horoscope: `You're perfect. Never change`
     },
     {
         name: 'Cancer',
@@ -47,7 +49,8 @@ const signs = [
     {
         name: 'Pisces',
         symbol: 'Fish',
-        date: '2/19 - 3/20'
+        date: '2/19 - 3/20',
+        horoscope: `Figure out your issues. Quickly.`
     }
 ]
 
